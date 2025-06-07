@@ -5,6 +5,7 @@
 To start the application in development mode, run:
 
 ```bash
+npm install
 npm run dev
 ````
 
