@@ -1,4 +1,3 @@
-````markdown
 # Project Setup and Testing Guide
 
 ## Running the Application
